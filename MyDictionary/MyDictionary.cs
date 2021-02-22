@@ -33,8 +33,6 @@ namespace MyDictionary
             }
             name[name.Length - 1] = names;
 
-
-
         }
         public void ToList()
         {
